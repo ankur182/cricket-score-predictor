@@ -8,6 +8,9 @@ Live Example of India vs England WC T-20 semifinals 2024(men)
 
  ![Screenshot 2024-07-03 085733](https://github.com/ankur182/cricket-score-predictor/assets/98750453/9bccffc2-2a96-44b9-bad9-bf7dcdbdb88e)
 
+ ![Screenshot 2024-07-03 085753](https://github.com/ankur182/cricket-score-predictor/assets/98750453/086e929d-0ff5-4bc4-9e88-5ad150262afc)
+
+
 
  
 2. Getting predicted score from given inputs
